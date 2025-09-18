@@ -25,22 +25,6 @@ Welcome to the **Coffee House Login & Signup Interface** — a sleek, modern, an
 | CSS         | Styling & Layout     |
 | JavaScript  | Interactivity & Logic|
 
-## 🚀 Getting Started
-
-To run this project locally:
-
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/your-username/coffee-house-login.git
-   ```
-
-2. **Navigate to the project folder**  
-   ```bash
-   cd coffee-house-login
-   ```
-
-3. **Open `index.html` in your browser**  
-   You’re good to go!
 
 ## 📂 Folder Structure
 
